@@ -36,13 +36,7 @@ I specialize in creating impactful web applications and seamless user experience
 **CricTracker** (Feb 2023 - Nov 2023)  
 - Managed web content, optimized site performance, and implemented SEO strategies for real-time sports updates.  
 - Enhanced user engagement and traffic through strategic updates.
-
----
-
-## 📈 GitHub Stats  
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=addytxr&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=addytxr&layout=compact&theme=radical)
-
+  
 ---
 
 ## 🌏 Let's Connect!  
