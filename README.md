@@ -20,25 +20,6 @@ I specialize in creating impactful web applications and seamless user experience
 
 ---
 
-## 💼 Professional Experience  
-
-### 🌐 **Web Developer Intern**  
-**DSQ Software** (Jun 2024 - Aug 2024)  
-- Delivered seamless user interactions by optimizing page performance and API integrations.  
-- Developed business-oriented websites to enhance client satisfaction.
-
-### 💻 **Frontend Developer Intern**  
-**Stack Wealth** (Jan 2024 - Feb 2024)  
-- Built and maintained responsive user interfaces using **React**, **HTML**, and **CSS**.  
-- Collaborated with senior developers to improve website performance.
-
-### ⚽ **Web Coordinator (Freelance)**  
-**CricTracker** (Feb 2023 - Nov 2023)  
-- Managed web content, optimized site performance, and implemented SEO strategies for real-time sports updates.  
-- Enhanced user engagement and traffic through strategic updates.
-  
----
-
 ## 🌏 Let's Connect!  
 - 📧 **Email:** [adinarang10@gmail.com](mailto:adinarang10@gmail.com)  
 - 💼 **LinkedIn:** [Aditya Narang](https://www.linkedin.com/in/addytxr/)  
