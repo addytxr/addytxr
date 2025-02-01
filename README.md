@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Narang!
 
-### 🚀 Full-Stack Developer | Passionate Coder | Tech Enthusiast  
+### 🚀 Full-Stack Developer | Passionate Coder | Tech Enthusiast   
 I specialize in creating impactful web applications and seamless user experiences. With a solid foundation in **MERN stack** and hands-on experience in developing and optimizing modern web solutions, I aim to solve real-world problems through code.
 
 ---
